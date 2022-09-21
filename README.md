@@ -9,7 +9,7 @@ At this point, they need to do a **Posts Report**. This report will be used by d
 Currently, you should focus to complete the following parts:
 - Build a table with the post list. Customers usually sort each column, so you need to implement this feature. Furthermore, as you can see in the design, some data is formatted (For example, Network is shown as an icon).
 
-- Implement a graph to analyse impressions by **Media Types** or **Networks**. You can toggle these options to see different data. ***(The title of this section must change to reactively)***
+- Implement a graph to analyse impressions by **Media Types** or **Networks**. You can toggle these options to see different data. ***(The title of this section must change reactively)***
 
 - Some customer are asking for a filter to display dynamic data in the table. You have to implement a filter component to display only the filtered data. A customer can filter by **Network**, **Message** or **type** 
 
