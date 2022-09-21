@@ -7,7 +7,7 @@ At this point, they need to do a **Posts Report**. This report will be used by d
 
 ## What we have to do
 Currently, you should focus to complete the following parts:
-- Build a table with the post list. Customers usually sort each column, so you need to implement this feature. Furthermore, as you can see in the design, some data is formatted (For example, Network shows an icon).
+- Build a table with the post list. Customers usually sort each column, so you need to implement this feature. Furthermore, as you can see in the design, some data is formatted (For example, Network is shown as an icon).
 
 - Implement a graph to analyse impressions by **Media Types** or **Networks**. You can toggle these options to see different data. ***(The title of this section must change to reactively)***
 
@@ -16,7 +16,7 @@ Currently, you should focus to complete the following parts:
 ![alt text](./readme_images/dashboard.png)
 
 ## Requirements and tips
-- You can't create new component files. You can implement this feature with the created components.
+- You can create new component files. But you have to use the three current components created to implement this feature.
 - You can add Components or Plugins if you need it.
 - Filter design is not implemented yet, so you can be creative.
 - Manage and architect CSS assets as you want.
