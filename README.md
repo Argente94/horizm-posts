@@ -11,15 +11,18 @@ Currently, you should focus to complete the following parts:
 
 - Implement a graph to analyse impressions by **Media Types** or **Networks**. You can toggle these options to see different data. ***(The title of this section must change reactively)***
 
+![alt text](./readme_images/dashboard.png)
+
 - Some customer are asking for a filter to display dynamic data in the table. You have to implement a filter component to display only the filtered data. A customer can filter by **Network**, **Message** or **type** 
 
-![alt text](./readme_images/dashboard.png)
+![alt text](./readme_images/filter.png)
 
 ## Requirements and tips
 - You can create new component files. But you have to use the three current components created to implement this feature.
 - You can add Components or Plugins if you need it.
-- Filter design is not implemented yet, so you can be creative.
+- You have to choose  filter input types (select, input text, input number...).
 - Manage and architect CSS assets as you want.
+- Don't worry about assets, you can use your own images.
 
 ## For an A++
 - Implement a button to Download this report in PDF.
