@@ -8,3 +8,6 @@
 
 ## Data management
 The post data is stored and managed from a **Vuex store module** which allows the page to to fetch posts to the API and use the data across the different components.
+
+## Deployment 
+This Vue appplication has been deployed with Vercel in [this site](https://post-analysis.vercel.app/).
