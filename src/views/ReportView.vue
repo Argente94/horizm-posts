@@ -96,6 +96,7 @@ export default {
     min-width: $phone-min-width;
     max-width: $tablet-h-width;
     margin: 0 auto;
+    background-color: $white;
 
     .home-stack{
       display: flex;
